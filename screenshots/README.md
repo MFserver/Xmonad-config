@@ -8,7 +8,7 @@ Here's some eye candy for y'all. If you use my config, or parts of it, and wanna
 
 Clear workspace, background from [This video](https://www.youtube.com/watch?v=3yeXoCxeMFE). 
 
-![Fullscreen kate](fullscreen kate.png)
+![Fullscreen kate]("fullscreen kate.png")
 
 One window covering almost all screen. 
 
