@@ -42,7 +42,7 @@ This file is sourced by the X server when it starts. It might need modifications
 
 ### .xmobarrc.hs
 
-The configuration of xmobar. Mine is placed in my home directory, but you can place it anywhere and name it whatever you like, as long as you update the location in the xmonad config. 
+The configuration of xmobar. Mine is placed in my home directory, but you can place it anywhere and name it whatever you like, as long as you update the location in the xmonad config (`~/.xmonad/xmonad.hs`). 
 
     cp .xmobarrc.hs ~/.xmobarrc.hs
 
