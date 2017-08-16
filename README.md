@@ -40,4 +40,8 @@ The configuration of xmobar. Mine is placed in my home directory, but you can pl
 
     cp .xmobarrc.hs ~/.xmobarrc.hs
 
-### 
+### .xmodmap
+
+Kustom keyboard shortcuts can be found here. Simply copy to your home. 
+
+    cp .xmodmap ~/.xmodmap
