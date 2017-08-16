@@ -15,3 +15,11 @@ One window covering almost all screen.
 ![Terminals](terminals.png)
 
 Three tiled terminals. 
+
+![Conky](conky.png)
+
+Close-up of conky, with a different background
+
+![The fancy prompt](prompt.png)
+
+The super-fancy terminal prompt
