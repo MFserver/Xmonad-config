@@ -10,7 +10,7 @@ Check the `screenshots/` folder for more.
 
     xmonad (obviously)
     xmobar
-    stalonetray (gives icons)
+    stalonetray (gives a status bar with icons)
     conky
     dmenu (for starting applications) (might be optional depending on your definition of 'optional')
 
@@ -23,6 +23,7 @@ Check the `screenshots/` folder for more.
     scrot (screenshots)
     Kate (text editor for code files and such)
     ttf-openlogos (To get the Arch linux symbol in Conky)
+    nm-applet (for handling wireless connections, it's good)
 
 Some other applications have support in my config but are by no means required to run it. Like, for example, League of Legends. 
 
