@@ -1,0 +1,1 @@
+/home/mfserver/.xmonad/xmonad.hs
