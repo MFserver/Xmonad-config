@@ -4,6 +4,8 @@ This is my basic Xmonad configuration. It features 11 named workspaces operated 
 
 ![Clear screenshot](screenshots/scrots.png)
 
+Check the `screenshots/` folder for more. 
+
 ## Requirements
 
     xmonad (obviously)
@@ -55,7 +57,11 @@ This file contains the text you're reading right now.
 
 ### bash.bashrc
 
-This contains my PS1, or what's known as the fancy terminal prompt I have. It's green for users and red for root, displays the current working directory in an intuitive way and the hostname of the machine. REALLY useful if you SSH a lot. It might require some editing to work on your machine. Google "PS1" and it should get you started. 
+This contains my PS1, or what's known as the fancy terminal prompt I have. 
+
+![The terminal](screenshots/terminal.png)
+
+It's green for users and red for root, displays the current working directory in an intuitive way and the hostname of the machine. REALLY useful if you SSH a lot. It might require some editing to work on your machine. Google "PS1" and it should get you started. 
 
 My file is for system-wide configuration, and can be found in `/etc/bash.bashrc`. 
 
