@@ -23,3 +23,13 @@ Some other applications have support in my config but are by no means required t
 
 ## What's in here, and how to use it
 
+### .conkyrc
+
+Simply copy to your home directory and start conky to test it. 
+
+    cp .conkyrc ~/.conkyrc
+    conky
+
+### .xinitrc
+
+This file is sourced by the X server when it starts. It might need modifications for your system, or you could just open the file and copy what you like into your existing ´´~/.xinitrc´´. 
