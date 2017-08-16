@@ -52,6 +52,10 @@ This file contains the text you're reading right now.
 
 ### bash.bashrc
 
-This contains my PS1, or what's known as the fancy terminal prompt I have. It's green for users and red for root, displays the current working directory in an intuitive way and the hostname of the machine. REALLY useful if you SSH a lot. It might require some editing to work on your machine. Google "PS1" and it should gt you started. 
+This contains my PS1, or what's known as the fancy terminal prompt I have. It's green for users and red for root, displays the current working directory in an intuitive way and the hostname of the machine. REALLY useful if you SSH a lot. It might require some editing to work on your machine. Google "PS1" and it should get you started. 
 
 My file is for system-wide configuration, and can be found in `/etc/bash.bashrc`. 
+
+### xmonad.hs
+
+This is Xmonad's config file. Quite advanced, but it's well-commented to get both me and others to understand it even if we don't know Haskell that well. Mine is located in `~/.xmonad/xmonad.hs`. 
