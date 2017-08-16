@@ -32,4 +32,4 @@ Simply copy to your home directory and start conky to test it.
 
 ### .xinitrc
 
-This file is sourced by the X server when it starts. It might need modifications for your system, or you could just open the file and copy what you like into your existing ´´~/.xinitrc´´. 
+This file is sourced by the X server when it starts. It might need modifications for your system, or you could just open the file and copy what you like into your existing `~/.xinitrc`. 
