@@ -22,7 +22,7 @@ Check the `screenshots/` folder for more.
     Pulseaudio
     scrot (screenshots)
     Kate (text editor for code files and such)
-    ttf-openlogos (To get the Arch linux symbol in Conky)
+    ttf-openlogos (to get the Arch linux symbol in Conky)
     nm-applet (for handling wireless connections, it's good)
 
 Some other applications have support in my config but are by no means required to run it. Like, for example, League of Legends. 
@@ -48,7 +48,7 @@ The configuration of xmobar. Mine is placed in my home directory, but you can pl
 
 ### .xmodmap
 
-Kustom keyboard shortcuts can be found here. Simply copy to your home. 
+Custom keyboard shortcuts can be found here. Simply copy to your home. 
 
     cp .xmodmap ~/.xmodmap
 
