@@ -18,6 +18,7 @@ This is my basic Xmonad configuration. It features 11 named workspaces operated 
     Pulseaudio
     scrot (screenshots)
     Kate (text editor for code files and such)
+    ttf-openlogos (To get the Arch linux symbol in Conky)
 
 Some other applications have support in my config but are by no means required to run it. Like, for example, League of Legends. 
 
@@ -25,14 +26,14 @@ Some other applications have support in my config but are by no means required t
 
 ### .conkyrc
 
-Simply copy to your home directory and start conky to test it. 
+Conky's config file. Simply copy to your home directory and start conky to test it. 
 
     cp .conkyrc ~/.conkyrc
     conky
 
 ### .xinitrc
 
-This file is sourced by the X server when it starts. It might need modifications for your system, or you could just open the file and copy what you like into your existing `~/.xinitrc`. 
+This file is sourced by the X server when it starts. It might need modifications for your system, or you could just open the file and copy what you like into your existing `~/.xinitrc`. Well-commented, easily understood. 
 
 ### .xmobarrc.hs
 
