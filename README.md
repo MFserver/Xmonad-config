@@ -33,3 +33,11 @@ Simply copy to your home directory and start conky to test it.
 ### .xinitrc
 
 This file is sourced by the X server when it starts. It might need modifications for your system, or you could just open the file and copy what you like into your existing `~/.xinitrc`. 
+
+### .xmobarrc.hs
+
+The configuration of xmobar. Mine is placed in my home directory, but you can place it anywhere and name it whatever you like, as long as you update the location in the xmonad config. 
+
+    cp .xmobarrc.hs ~/.xmobarrc.hs
+
+### 
