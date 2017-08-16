@@ -59,7 +59,7 @@ This file contains the text you're reading right now.
 
 This contains my PS1, or what's known as the fancy terminal prompt I have. 
 
-![The terminal](screenshots/terminal.png)
+![The terminal](screenshots/prompt.png)
 
 It's green for users and red for root, displays the current working directory in an intuitive way and the hostname of the machine. REALLY useful if you SSH a lot. It might require some editing to work on your machine. Google "PS1" and it should get you started. 
 
